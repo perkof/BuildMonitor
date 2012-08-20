@@ -1,0 +1,1 @@
+A very rudimentary buildmonitor for TFS which signals the latest build status on a Delcom 804002_B installed via UsbLibDotNet
